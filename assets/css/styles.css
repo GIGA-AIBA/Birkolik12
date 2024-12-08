@@ -354,7 +354,7 @@ img {
   display: flex;
 }
 .content-box2 {
-  background-image: url("/assets/img/forbg2.jpeg");
+  background-image: url("/assets/img/forbg2.png");
   min-width: 100vw;
   height: 100vh;
   scroll-snap-align: start;
@@ -366,7 +366,7 @@ img {
   display: flex;
 }
 .content-box3 {
-  background-image: url("/assets/img/forbg3.webp");
+  background-image: url("/assets/img/forbg3.png");
   min-width: 100vw;
   height: 100vh;
   scroll-snap-align: start;
@@ -378,7 +378,7 @@ img {
   display: flex;
 }
 .content-box4 {
-  background-image: url("/assets/img/forbg4.webp");
+  background-image: url("/assets/img/forbg4.png");
   min-width: 100vw;
   height: 100vh;
   scroll-snap-align: start;
